@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm islam hennous</h1>
-<h3 align="center">A passionate web developer from Algeria</h3>
+<h3 align="center">A passionate web & Mobile developer from Algeria</h3>
 
 - 👨‍💻 All of my projects are available at [https://islamhennous.com/](https://islamhennous.com/)
 
