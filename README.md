@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://islamhennous.com/](https://islamhennous.com/)
 
-- 📫 How to reach me **hennousislam43@gmail.com**
+- 📫 How to reach me **hennous.islam@outlook.com**
 
 - 📄 Know about my experiences [https://islamhennous.com/](https://islamhennous.com/)
 
